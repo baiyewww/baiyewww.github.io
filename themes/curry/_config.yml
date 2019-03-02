@@ -17,11 +17,6 @@ socials:
   email: "844624471@qq.com"
   wechat: "gunzi666"
 
-deploy:
-  type: git
-  repo: https://github.com/baiyewww/baiyewww.github.io.git
-
-
 # Sidebar
 # sidebar: right
 # widgets:
